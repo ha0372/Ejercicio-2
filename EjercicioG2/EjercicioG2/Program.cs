@@ -10,29 +10,35 @@ namespace EjercicioG2
     {
         static void Main(string[] args)
         {
-           
-            Console.WriteLine("Ingrese su nombre: ");
-            String nombre = Console.ReadLine();
-            Console.WriteLine("Ingrese su edad");
-            int edad = Convert.ToInt32(Console.ReadLine());
-            
-            Console.WriteLine("Ingrese su sexo (Mujer = M y Hombre = H)");
-            Char genero = Convert.ToChar(Console.ReadLine());
 
-            switch (genero)
+            string seguir = null;
+
+            while (seguir != "no")
             {
-                case 'M':
-                    Console.WriteLine("La Sra.{0}", nombre);
-                    break;
+                Console.WriteLine("Ingrese su nombre: ");
+                String nombre = Console.ReadLine();
+                Console.WriteLine("Ingrese su edad");
+                int edad = Convert.ToInt32(Console.ReadLine());
 
-                case 'H':
-                    Console.WriteLine("El Sr.{0}", nombre);
-                    break;
+                Console.WriteLine("Ingrese su sexo (Mujer = M y Hombre = H)");
+                Char genero = Convert.ToChar(Console.ReadLine());
+
+                switch (genero)
+                {
+                    case 'M':
+                        Console.WriteLine("La Sra.{0}", nombre);
+                        break;
+
+                    case 'H':
+                        Console.WriteLine("El Sr.{0}", nombre);
+                        break;
+                }
+
+                Console.WriteLine("Desea Continuar (si / no )");
+                seguir = Console.ReadLine();
             }
-
-
+           
             Console.ReadKey();
-
         }
     }
 }
