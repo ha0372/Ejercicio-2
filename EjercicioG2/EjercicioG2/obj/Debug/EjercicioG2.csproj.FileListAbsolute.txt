@@ -1,0 +1,7 @@
+C:\Users\crobe\Documents\GitHub\Ejercicio-2\EjercicioG2\EjercicioG2\bin\Debug\EjercicioG2.exe.config
+C:\Users\crobe\Documents\GitHub\Ejercicio-2\EjercicioG2\EjercicioG2\bin\Debug\EjercicioG2.exe
+C:\Users\crobe\Documents\GitHub\Ejercicio-2\EjercicioG2\EjercicioG2\bin\Debug\EjercicioG2.pdb
+C:\Users\crobe\Documents\GitHub\Ejercicio-2\EjercicioG2\EjercicioG2\obj\Debug\EjercicioG2.csprojAssemblyReference.cache
+C:\Users\crobe\Documents\GitHub\Ejercicio-2\EjercicioG2\EjercicioG2\obj\Debug\EjercicioG2.csproj.CoreCompileInputs.cache
+C:\Users\crobe\Documents\GitHub\Ejercicio-2\EjercicioG2\EjercicioG2\obj\Debug\EjercicioG2.exe
+C:\Users\crobe\Documents\GitHub\Ejercicio-2\EjercicioG2\EjercicioG2\obj\Debug\EjercicioG2.pdb
